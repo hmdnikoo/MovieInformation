@@ -1,0 +1,9 @@
+F:\MovieInformation\MovieInformation.Domain\bin\Debug\netcoreapp3.1\MovieInformation.Domain.deps.json
+F:\MovieInformation\MovieInformation.Domain\bin\Debug\netcoreapp3.1\MovieInformation.Domain.dll
+F:\MovieInformation\MovieInformation.Domain\bin\Debug\netcoreapp3.1\MovieInformation.Domain.pdb
+F:\MovieInformation\MovieInformation.Domain\obj\Debug\netcoreapp3.1\MovieInformation.Domain.AssemblyInfoInputs.cache
+F:\MovieInformation\MovieInformation.Domain\obj\Debug\netcoreapp3.1\MovieInformation.Domain.AssemblyInfo.cs
+F:\MovieInformation\MovieInformation.Domain\obj\Debug\netcoreapp3.1\MovieInformation.Domain.csproj.CoreCompileInputs.cache
+F:\MovieInformation\MovieInformation.Domain\obj\Debug\netcoreapp3.1\MovieInformation.Domain.dll
+F:\MovieInformation\MovieInformation.Domain\obj\Debug\netcoreapp3.1\MovieInformation.Domain.pdb
+F:\MovieInformation\MovieInformation.Domain\obj\Debug\netcoreapp3.1\MovieInformation.Domain.csprojAssemblyReference.cache

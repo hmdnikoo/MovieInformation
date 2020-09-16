@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MovieInformation.Domain/1.0.0": {
+        "runtime": {
+          "MovieInformation.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieInformation.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

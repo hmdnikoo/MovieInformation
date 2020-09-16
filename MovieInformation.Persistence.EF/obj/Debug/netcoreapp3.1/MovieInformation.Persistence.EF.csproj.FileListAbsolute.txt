@@ -1,0 +1,12 @@
+F:\MovieInformation\MovieInformation.Persistence.EF\obj\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.csprojAssemblyReference.cache
+F:\MovieInformation\MovieInformation.Persistence.EF\obj\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.AssemblyInfoInputs.cache
+F:\MovieInformation\MovieInformation.Persistence.EF\obj\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.AssemblyInfo.cs
+F:\MovieInformation\MovieInformation.Persistence.EF\obj\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.csproj.CoreCompileInputs.cache
+F:\MovieInformation\MovieInformation.Persistence.EF\bin\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.deps.json
+F:\MovieInformation\MovieInformation.Persistence.EF\bin\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.runtimeconfig.json
+F:\MovieInformation\MovieInformation.Persistence.EF\bin\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.runtimeconfig.dev.json
+F:\MovieInformation\MovieInformation.Persistence.EF\bin\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.dll
+F:\MovieInformation\MovieInformation.Persistence.EF\bin\Debug\netcoreapp3.1\MovieInformation.Domain.dll
+F:\MovieInformation\MovieInformation.Persistence.EF\bin\Debug\netcoreapp3.1\MovieInformation.Domain.pdb
+F:\MovieInformation\MovieInformation.Persistence.EF\obj\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.csproj.CopyComplete
+F:\MovieInformation\MovieInformation.Persistence.EF\obj\Debug\netcoreapp3.1\MovieInformation.Persistence.EF.genruntimeconfig.cache
